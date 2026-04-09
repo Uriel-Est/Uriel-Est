@@ -12,6 +12,7 @@ Demografia + estatística + microeconometria. Porque sem investigação não há
 <p align="center">
   <img src="img/banner_git.png" alt="Banner com logos" width="100%"/>
 </p>
+[Laboratório de economia e avaliação de políticas públicas] [UFPB - DE] [Laboratório de Estudos Demográficos]
 
 📖 **Na mesa de cabeceira**  
 Raquel de Queiroz, H.P. Lovecraft, Arthur Machen, Robert W. Chambers, Machado de Assis
