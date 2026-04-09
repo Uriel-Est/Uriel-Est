@@ -29,10 +29,10 @@ Raquel de Queiroz, H.P. Lovecraft, Arthur Machen, Robert W. Chambers, Machado de
 ---
 
 ## 🐍 Snake Game
-![Snake animation](https://github.com/Uriel-Est/Uriel-Est/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Uriel-Est/Uriel-Est/blob/output/dist/snake.svg)
 
 ## 🎶 O que estou ouvindo
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22dywybgdtzphvyxmpidx36ba&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=22dywybgdtzphvyxmpidx36ba&redirect=true)
 
 ---
 
