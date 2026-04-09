@@ -6,13 +6,20 @@
 
 ## 👤 Sobre mim
 
-Demografia + estatística + microeconometria. Porque sem investigação não há direito à fala.
+Demografia + estatística + microeconometria.
+Porque sem investigação não há direito à fala.
+
+> “Na verdade falava pouco. Admirava as palavras compridas e difíceis da gente da cidade, tentava reproduzir
+algumas, em vão, mas sabia que elas eram inúteis e talvez perigosas.”  
+> — Graciliano Ramos, *Vidas Secas*
 
 📊 **Afiliações**  
 <p align="center">
   <img src="img/banner_git.png" alt="Banner com logos" width="100%"/>
 </p>
-[Laboratório de economia e avaliação de políticas públicas] [UFPB - DE] [Laboratório de Estudos Demográficos]
+<p align="center">
+  [Laboratório de Economia e Avaliação de Políticas Públicas] • [UFPB - DE] • [Laboratório de Estudos Demográficos]
+</p>
 
 📖 **Na mesa de cabeceira**  
 Raquel de Queiroz, H.P. Lovecraft, Arthur Machen, Robert W. Chambers, Machado de Assis
