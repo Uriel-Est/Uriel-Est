@@ -4,10 +4,17 @@
        width="600"/>
 </p>
 
-> - “Fabiano não sabia falar. Pensava com dificuldade, exprimia-se mal, admirava as pessoas que tinham palavreado.”
-> - Graciliano Ramos, *Vidas Secas*
+## 👤 Sobre mim
 
-> “Sem investigação, sem direito a fala.” — Mao Tse Tung
+Demografia + estatística + microeconometria. Porque sem investigação não há direito à fala.
+
+📊 **Afiliações**  
+[Lab de Economia] • [Lab de Estatística Demográfica] • [CA de Estatística]
+
+📖 **Na mesa de cabeceira**  
+Raquel de Queiroz, H.P. Lovecraft, Arthur Machen, Robert W. Chambers, Machado de Assis
+
+📍 **América Latina como chave analítica** – porque densidade populacional também é poesia.
 
 <!--
 **Uriel-Est/Uriel-Est** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
