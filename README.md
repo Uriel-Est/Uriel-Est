@@ -14,7 +14,7 @@ Demografia + estatística + microeconometria. Porque sem investigação não há
 📖 **Na mesa de cabeceira**  
 Raquel de Queiroz, H.P. Lovecraft, Arthur Machen, Robert W. Chambers, Machado de Assis
 
-📍 **América Latina como chave analítica** – porque densidade populacional também é poesia.
+📍 **Nuestra América** – Mérame, tamo' aquí.
 
 <!--
 **Uriel-Est/Uriel-Est** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
