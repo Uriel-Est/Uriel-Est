@@ -26,6 +26,16 @@ Raquel de Queiroz, H.P. Lovecraft, Arthur Machen, Robert W. Chambers, Machado de
 
 📍 **Nuestra América** – Mérame, tamo' aquí.
 
+---
+
+## 🐍 Snake Game
+![Snake animation](https://github.com/Uriel-Est/Uriel-Est/blob/output/github-contribution-grid-snake.svg)
+
+## 🎶 O que estou ouvindo
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&redirect=true)
+
+---
+
 <!--
 **Uriel-Est/Uriel-Est** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
