@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://tenor.com/bJG0F.gif" alt="Funny Valentine" width="600"/>
-</p>
+![Funny Valentine](https://tenor.com/bJG0F.gif)
 
 ## Hi there 👋
 
