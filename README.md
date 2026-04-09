@@ -9,7 +9,9 @@
 Demografia + estatística + microeconometria. Porque sem investigação não há direito à fala.
 
 📊 **Afiliações**  
-[Lab de Economia] • [Lab de Estatística Demográfica] • [CA de Estatística]
+<p align="center">
+  <img src="img/banner_git.png" alt="Banner com logos" width="100%"/>
+</p>
 
 📖 **Na mesa de cabeceira**  
 Raquel de Queiroz, H.P. Lovecraft, Arthur Machen, Robert W. Chambers, Machado de Assis
