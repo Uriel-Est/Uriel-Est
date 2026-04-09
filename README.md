@@ -1,4 +1,8 @@
-![Funny Valentine](https://tenor.com/bJG0F.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/MH8jCRFuX2MAAAAC/funny-valentine-jojo.gif" 
+       alt="Funny Valentine + Bandeira do Brasil" 
+       width="600"/>
+</p>
 
 ## Hi there 👋
 
