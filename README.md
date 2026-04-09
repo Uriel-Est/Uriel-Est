@@ -4,9 +4,10 @@
        width="600"/>
 </p>
 
-## Hi there 👋
+> - “Fabiano não sabia falar. Pensava com dificuldade, exprimia-se mal, admirava as pessoas que tinham palavreado.”
+> - Graciliano Ramos, *Vidas Secas*
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+> “没有调查，没有发言权” — Mao Tse Tung
 
 <!--
 **Uriel-Est/Uriel-Est** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
